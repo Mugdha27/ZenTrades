@@ -37,7 +37,6 @@ GMAP_Scheduling_Routing
    |   |   |   |-- authReducer.js
    |   |   |   |-- index.js
    |   |   |-- setupProxy.js
-LICENSE
 README.md
 Sales Chatbot
    |-- README.md
