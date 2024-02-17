@@ -224,12 +224,8 @@ package.json
 ```
 
 ## Problem Statement:
-Track Field Employee Movement
-* Design a Field Sales tracker to help optimize on cost and travel route.
-
-## About the Problem
-* Fintech companies have agents on the field to visit customers for servicing or adding new customers to their portfolio.
-* The Field Agents have to be on the field all day long visiting customers, so can use this data to optimize his travel route
+The Route Planning Tool MVP (Minimum Viable Product) is a basic version of the application designed to demonstrate core functionality. 
+It aims to optimize routes for users attending multiple jobs in various locations with minimal features and complexity.
 
 ## Components
 * Design a system by which the company can track the movement of the Field Agent.
